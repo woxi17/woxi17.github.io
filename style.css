@@ -29,13 +29,18 @@ nav {
 }
 
 .home {
-  background-image: url("https://source.unsplash.com/U713MZX1x0w/1600x900/");
+  background-image: url("https://source.unsplash.com/twE-bTk0BnM/1600x700/");
   background-position: center;
   background-size: cover;
   width: 100vw;
-  height: 110vh;
+  height: 95vh;
   position: relative;
   margin-bottom: -10vh;
+}
+
+.cont {
+  margin-top: -200px;
+  text-align: center;
 }
 
 .title-text {
@@ -55,10 +60,8 @@ nav {
   opacity: 0;
 }
 
-
-
 .body {
-  margin-bottom: -10vh;
+
 }
 
 .button {
@@ -99,4 +102,19 @@ nav {
 
 .raleway {
   font-family: 'Raleway', sans-serif;
+}
+
+.text-about {
+  margin-top: 150px;
+  marrgin-bottom: 200px;
+}
+
+.screen-shots {
+  margin-top: 150px;
+  marrgin-bottom: 200px;
+}
+
+.screen {
+  height: 80vh;
+  width: auto;
 }
