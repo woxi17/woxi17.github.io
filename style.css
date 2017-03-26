@@ -1,0 +1,102 @@
+nav {
+  box-shadow: none;
+}
+
+#end {
+  margin-bottom: 20px;
+}
+
+.nav-transparent {
+  background-color: transparent;
+}
+
+.nav-white {
+  background-color: white;
+  color: black;
+}
+
+.nav-white a {
+  color: black;
+}
+
+.heading-img {
+  height: 40vh;
+  width: 100vw;
+}
+
+.heading-img img {
+  width: 100vw;
+}
+
+.home {
+  background-image: url("https://source.unsplash.com/U713MZX1x0w/1600x900/");
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 110vh;
+  position: relative;
+  margin-bottom: -10vh;
+}
+
+.title-text {
+  font-size: 5em;
+  color: white;
+  width: 100vw;
+  text-align: center;
+  opacity: 0;
+}
+
+.subtitle-text {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  width: 100vw;
+  text-align: center;
+  margin-bottom: 50px;
+  opacity: 0;
+}
+
+
+
+.body {
+  margin-bottom: -10vh;
+}
+
+.button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.button-gray {
+  transition: background-color 0.5s ease;
+  background-color: white;
+  color: black
+}
+
+.button-gray:hover {
+  background-color: lightgray;
+}
+
+.button-white {
+  transition: background-color 0.5s ease;
+  background-color: white;
+  color: black
+}
+
+.button-white:hover {
+  background-color: rgba(255, 255, 255, 0.75);;
+}
+
+.centerize {
+  margin: auto;
+}
+
+#dive {
+  margin-top: 100px;
+  opacity: 0;
+}
+
+.raleway {
+  font-family: 'Raleway', sans-serif;
+}
